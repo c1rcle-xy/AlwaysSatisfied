@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         树维树维教务系统量化评价 - 自动“很满意”助手
+// @name         树维教务系统量化评价 - 自动“很满意”助手
 // @namespace    https://github.com/c1rcle-xy/AlwaysSatisfied/
 // @version      1.0
 // @description  在评教页面添加控制面板，一键全选"很满意"，可选自动提交
