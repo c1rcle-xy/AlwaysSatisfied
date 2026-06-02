@@ -1,5 +1,7 @@
+# 安装
+安装需要浏览器已存在脚本猫或者Tampermonkey，[已存在点我安装](https://github.com/c1rcle-xy/AlwaysSatisfied/raw/refs/heads/main/AlwaysSatisfied.user.js)
 # 代码由ai生成，不保证全平台可用性
-适用于树维教务系统，解放无意义的重复评价，自动勾选“很满意”<br>安装需要浏览器已存在脚本猫或者Tampermonkey
+适用于树维教务系统，解放无意义的重复评价，自动勾选“很满意”
 ## 进入系统时
 <img width="366" height="244" alt="image" src="https://github.com/user-attachments/assets/79b19c9a-6453-4707-a7e6-e7e2a50849e7" /><br>
 ## 进入评教页面时
