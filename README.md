@@ -1,5 +1,6 @@
 ## 代码由ai生成，不保证所有平台可用性
-适用于树维教务系统，解放无意义的重复评价，安装需要浏览器已存在脚本猫或者Tampermonkey，进入系统时
+适用于树维教务系统，解放无意义的重复评价，安装需要浏览器已存在脚本猫或者Tampermonkey
+<br>进入系统时
 <img width="366" height="244" alt="image" src="https://github.com/user-attachments/assets/79b19c9a-6453-4707-a7e6-e7e2a50849e7" /><br>
 进入评教页面时<br>
 <img width="255" height="229" alt="image" src="https://github.com/user-attachments/assets/2c36d661-3529-4e8f-bd2f-60af0fde2e76" /><br>
